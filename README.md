@@ -15,7 +15,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://github.com/yug-24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/yugbhatt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/yug-bhatt-497775256/)
 [![Email](https://img.shields.io/badge/Email-24243e?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:yugbhatt2005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-24243e?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/yug-24)
 
